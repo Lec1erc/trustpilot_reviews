@@ -1,0 +1,4 @@
+selenium
+pywin32
+fake-useragent
+selenium-wire
